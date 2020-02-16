@@ -6,4 +6,4 @@ author: AlvinMask
 
 commands:
  bankui:
-     description: Membuka menu BankUI (form)
+     description: BankUI
